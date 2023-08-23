@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/habit-tracker.git"
+    "url": "git+https://github.com/Angu129/Habit-tracker.git"
   },
-  "author": "Rahul",
+  "author": "Angu129",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/habit-tracker/issues"
+    "url": "https://github.com/Angu129/Habit-tracker/issues"
   },
-  "homepage": "https://github.com/rahulsups/habit-tracker#readme",
+  "homepage": "https://github.com/Angu129/Habit-tracker#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",
